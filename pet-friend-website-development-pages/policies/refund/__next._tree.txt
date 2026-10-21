@@ -1,0 +1,2 @@
+:HL["/pet-friend-website-development-pages/_next/static/chunks/10x1o50fr~3.j.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"policies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"refund","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"dc25ocX38kQXQbiWZ-5i5"}

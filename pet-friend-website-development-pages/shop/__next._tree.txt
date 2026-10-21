@@ -1,0 +1,5 @@
+:HL["/pet-friend-website-development-pages/_next/static/chunks/10x1o50fr~3.j.css","style"]
+:HL["https://images.pexels.com/photos/12573570/pexels-photo-12573570.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1000&h=1000","image"]
+:HL["https://images.pexels.com/photos/6816838/pexels-photo-6816838.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=900","image"]
+:HL["https://images.pexels.com/photos/32070608/pexels-photo-32070608.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=900","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"shop","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"dc25ocX38kQXQbiWZ-5i5"}
