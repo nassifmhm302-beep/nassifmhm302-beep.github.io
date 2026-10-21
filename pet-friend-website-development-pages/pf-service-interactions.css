@@ -1,0 +1,55 @@
+main a[href*="/services/"],
+main a[href*="/team/"] {
+  transition: color 180ms ease, background-color 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+main a[href*="/services/"]:hover,
+main a[href*="/team/"]:hover {
+  color: #a83f61;
+}
+
+main a[href*="/services/"]:active,
+main a[href*="/team/"]:active {
+  color: #fff;
+  background-color: #c65378;
+}
+
+main article[data-pf-service-card] {
+  cursor: pointer;
+  transition: color 220ms ease, background-color 220ms ease, border-color 220ms ease, box-shadow 220ms ease, transform 220ms ease;
+}
+
+main article[data-pf-service-card]:hover {
+  border-color: #c65378 !important;
+  box-shadow: 0 12px 28px rgb(198 83 120 / 14%) !important;
+  transform: translateY(-2px);
+}
+
+main article[data-pf-service-card][data-pf-service-selected="true"] {
+  color: #fff !important;
+  background-color: #c65378 !important;
+  border-color: #a83f61 !important;
+  box-shadow: 0 14px 34px rgb(198 83 120 / 24%) !important;
+  transform: translateY(-2px);
+}
+
+main article[data-pf-service-card][data-pf-service-selected="true"] h3,
+main article[data-pf-service-card][data-pf-service-selected="true"] p,
+main article[data-pf-service-card][data-pf-service-selected="true"] a {
+  color: #fff !important;
+}
+
+main article[data-pf-service-card][data-pf-service-selected="true"] > span {
+  color: #fff !important;
+  background-color: rgb(255 255 255 / 18%) !important;
+}
+
+main article[data-pf-service-card][data-pf-service-selected="true"] > div {
+  border-color: rgb(255 255 255 / 28%) !important;
+}
+
+main a[href*="/services/"]:focus-visible,
+main a[href*="/team/"]:focus-visible {
+  outline: 2px solid #c65378;
+  outline-offset: 3px;
+}
