@@ -1,5 +1,5 @@
-:HL["/dermacure-clinic-website-development-pages/_next/static/chunks/102q85-f6l9ao.css","style"]
+:HL["/dermacure-clinic-website-development-pages/_next/static/chunks/0d_b~iq_86y94.css","style"]
 :HL["/dermacure-clinic-website-development-pages/_next/static/media/57696fb0c8dcfe1f-s.p.0q8ap6lvl~lms.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dermacure-clinic-website-development-pages/_next/static/media/8f2ca9bed5019488-s.p.0k6rmjnr3ru99.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dermacure-clinic-website-development-pages/_next/static/media/ec2f4458eb06f74e-s.p.09_wjtigl~olh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"doctors","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dr-nasim-mansour","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"vjN0kAkoHG0G7q1qqqN10"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"doctors","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"dr-nasim-mansour","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"0_Z-dVCqbIY5G949AP_QK"}
