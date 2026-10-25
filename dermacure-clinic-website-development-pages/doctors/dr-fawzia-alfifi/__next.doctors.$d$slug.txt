@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/dermacure-clinic-website-development-pages/_next/static/chunks/0htk~d0yqg0-9.js","/dermacure-clinic-website-development-pages/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[37457,["/dermacure-clinic-website-development-pages/_next/static/chunks/0htk~d0yqg0-9.js","/dermacure-clinic-website-development-pages/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"vjN0kAkoHG0G7q1qqqN10"}

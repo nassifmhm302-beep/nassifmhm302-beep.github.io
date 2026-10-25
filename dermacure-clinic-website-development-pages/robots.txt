@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://nassifmhm302-beep.github.io/dermacure-clinic-website-development-pages/sitemap.xml
